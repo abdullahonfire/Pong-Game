@@ -1,12 +1,24 @@
 # Pong-Game
 
-### 📝 Description of the Code
-
 This C program is a complete implementation of a **Pong game** using the **Raylib** graphics and audio library. The code includes multiple features to enhance user experience, such as game modes, difficulty levels, sound effects, UI design, and pause/game over functionality.
 
 ---
 
 ### 🧱 Structure & Features Breakdown
+
+### Features
+
+🧠 Player vs AI and PvP game modes
+
+🎮 Beginner and Expert difficulty levels
+
+⏸️ Pause menu with Resume and Home options
+
+🏆 Game Over screen with background image and music
+
+🔊 Sound effects for hit, click, and win/game over
+
+🖼️ Custom UI with background textures
 
 #### 1. **Window & Initialization**
 
@@ -80,12 +92,28 @@ This C program is a complete implementation of a **Pong game** using the **Rayli
 * Properly unloads all sounds and textures.
 * Closes the audio and window at the end.
 
-This code is great for beginners learning:
+### It was created as a collaborative project by:
 
-* Game loops and event handling
-* Collision detection
-* UI interaction with mouse
-* Sound and texture management
-* Simple AI behavior
+👨‍💻 Developers:
 
-Let me know if you want this translated into **Bangla**, or if you want this formatted as a **GitHub README section**.
+Abdullah Ibna Taher
+
+FM Taisum
+
+🙌 Inspiration
+This project was proudly inspired and guided by our CSE Lab Faculty,
+🎓 Arko Shikdar, whose mentorship and encouragement pushed us to explore creativity beyond the classroom.
+
+His support helped us turn a simple idea into a complete, playable game — and for that, we’re truly grateful.
+
+🙏 Thank You!
+Thank you for checking out our Pong game project!
+We hope you enjoy playing it as much as we enjoyed building it.
+
+Feel free to give feedback or suggestions — we’re always looking to improve!
+
+
+
+
+
+
