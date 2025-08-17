@@ -39,7 +39,7 @@ Texture2D menuBackground = LoadTexture("photo.png");
     bool menuMode = true;
     bool playerVsAI = true;
     bool gameOver = false;
-    int maxScore = 3;
+    int maxScore = 5;
     
   Rectangle quitBtn = { screenWidth / 2 - 100, 200, 200, 40 }; //quitBtn
   Vector2 mouse = GetMousePosition();
@@ -426,4 +426,5 @@ Rectangle startBtn = {300, 330, 200, 40};      // Start Game
     CloseAudioDevice();
     CloseWindow();
     return 0;
+
 }
